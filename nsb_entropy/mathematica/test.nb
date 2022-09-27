@@ -1,0 +1,85 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 10.3' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      2058,         75]
+NotebookOptionsPosition[      1599,         54]
+NotebookOutlinePosition[      1946,         69]
+CellTagsIndexPosition[      1903,         66]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell[BoxData[
+ RowBox[{"counts", "=", 
+  RowBox[{"Rationalize", "[", 
+   RowBox[{"Import", "[", "\"\<test.mat\>\"", "]"}], "]"}]}]], "Input",
+ CellChangeTimes->{3.6676803757840385`*^9}],
+
+Cell[BoxData[
+ RowBox[{
+  StyleBox[
+   RowBox[{"Import", "::", "nffil"}], "MessageName"], 
+  RowBox[{
+  ":", " "}], "\<\"File not found during \
+\[NoBreak]\\!\\(\\*RowBox[{\\\"Import\\\"}]\\)\[NoBreak]. \\!\\(\\*ButtonBox[\
+\\\"\[RightSkeleton]\\\", ButtonStyle->\\\"Link\\\", ButtonFrame->None, \
+ButtonData:>\\\"paclet:ref/message/Import/nffil\\\", ButtonNote -> \
+\\\"Import::nffil\\\"]\\)\"\>"}]], "Message", "MSG",
+ CellChangeTimes->{3.667680377006502*^9}],
+
+Cell[BoxData["$Failed"], "Output",
+ CellChangeTimes->{3.667680377006502*^9}]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"Directory", "[", "]"}]], "Input",
+ CellChangeTimes->{{3.667680383713306*^9, 3.6676803855780635`*^9}}],
+
+Cell[BoxData["\<\"C:\\\\Users\\\\Abhra\\\\Documents\"\>"], "Output",
+ CellChangeTimes->{3.667680386162225*^9}]
+}, Open  ]]
+},
+WindowSize->{1021, 790},
+WindowMargins->{{Automatic, 225}, {Automatic, 106}},
+FrontEndVersion->"10.3 for Microsoft Windows (64-bit) (October 9, 2015)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 185, 4, 31, "Input"],
+Cell[768, 28, 461, 10, 21, "Message"],
+Cell[1232, 40, 76, 1, 31, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[1345, 46, 125, 2, 31, "Input"],
+Cell[1473, 50, 110, 1, 31, "Output"]
+}, Open  ]]
+}
+]
+*)
+
+(* End of internal cache information *)
+
