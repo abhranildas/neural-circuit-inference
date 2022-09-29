@@ -1,4 +1,15 @@
-
+binnedspikes_binsizes/
+binnedspikes_GLM_thresh/
+binnedspikes_LNP_unpinned_1e7/
+binnedspikes_rand_symm/
+binnedspikes_rand_sparse/
+binnedspikes_ub_up_reset_ff_0/
+binnedspikes_unbinarized_unpinned_reset_randomize_I/
+binsize_1_unbinarized_up_1e7/
+binsize_1_up_1e8/
+binsize_1_up_sb_1e8/
+data_chaotic_net/
+data_chaotic_net_sparse/
 inference_data_chaotic_sparse_CCG.mat
 inference_data_chaotic_sparse_CCG.mat
 inference_data_rand_sparse_sync.mat
